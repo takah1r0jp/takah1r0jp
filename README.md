@@ -1,39 +1,27 @@
 ## Hi there 👋
 
-私はエンジニア志望の情報系大学院修士2年のtakah1r0です！
+情報系大学院 修士2年の takah1r0 です。  
+現在は **MLLM（Multimodal LLM）による製品画像の異常検知**を研究しています。  
 
-大学院ではMLLMによる製品画像の異常検知を研究しています！
+ものづくりが好きで、研究成果の Web アプリ公開や、  
+**PKSHA HACKATHON 2025** では旅行プラン AI *“norun”* で **最優秀賞** を受賞しました。  
 
-ものづくりに興味があり、研究成果をWebアプリとして公開したり、PKSHA HACKATHON 2025では、旅行プランAI「norun」で最優秀賞を頂いたりしました！
+AI を活用したプロダクト開発に強い関心があり、  
+普段から **MLLM の API 推論、ローカル MLLM、物体検出モデル** などを扱っています。  
 
-AIを組み込んだプロダクト開発に興味があり、普段から、MLLMをAPI経由で推論したり、ローカルMLLM、物体検出モデルを触ったりしています。
-
-主な技術スタックとして、FastAPIとNext.js, Tailwind CSSを使ってフルスタックなアプリを開発しています！
-
----
-### Tool & Tech
-
-- Python, FastAPI, Streamlit, LangChain
-- Next.js, TypeScript, Tailwind CSS
-- AWS, GCP, Railway, Vercel
+技術スタックとしては **FastAPI / Next.js / Tailwind CSS** を中心に、  
+フルスタックな Web アプリの開発を行っています。  
 
 ---
-### A bit about me:
-- 🗻 アイコンは今年登った富士山から見た日の出です
-- ⚾️ 15年間野球をしてました
-- 🏍️ バイク通学(125ccのスクーター)
 
-<!--
-**takah1r0jp/takah1r0jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tools & Tech
+- **Backend:** Python, FastAPI, Streamlit, LangChain  
+- **Frontend:** Next.js, TypeScript, Tailwind CSS  
+- **Infra / Deployment:** AWS, GCP, Railway, Vercel  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 A bit about me
+- 🗻 アイコンは「今年登った富士山で見た日の出」です  
+- ⚾️ 野球歴 15 年  
+- 🏍️ 125cc のスクーターで通学しています  
